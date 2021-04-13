@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...I.A programing & others
 - 🌱 I’m currently learning ...python,Java etc.
 - 💞️ I’m looking to collaborate on ...magazine bloqs
-- 📫 How to reach me ...
+- 📫 How to reach me counterfeith1.0@gmail.com
+.
 
 <!---
 t4CORE/t4CORE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
